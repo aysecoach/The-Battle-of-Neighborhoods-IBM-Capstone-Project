@@ -1,12 +1,5 @@
 # Introduction
-Starting a specific business in a new place is a real challenge for an entrepreneur. 
-Venue types around the place would be a good point to start business. If there are many 
-categorical venues with the starting business around this place, there will be 
-competitive cases and this will compel the entrepreneur in many different aspects. 
-In addition, population of a borough will be another issue to take care.
-If population of the borough is higher, then the potential of the growth of this business
-will be higher too. Considering these two cases together, it can be possible to find the best 
-borough to start a new business.In this project a baker wants to amplify his bakery chains in a 
-different neighborhood Brooklyn, who has already chains in Manhattan in New York. He should choose 
-the best place to have high income and grow his business. Therefore, in this project this issue is 
-aimed to be solved with the best solution by using some data science methodologies.
+#### The center of Brooklyn history has started in 1863. Brooklyn is the most populous borough in New York City. It has about 2.6 million residents. Also, it has a multicultural structure and has 200 different languages spoken. Its population is 40 percent foreign born [1]. This diversity is reflected to Brooklyn’s neighborhoods, economy and ideas. In addition, due to its history, there are major museums, libraries and art centers. 
+#### Starting a specific business in a new place is a real challenge for an entrepreneur. Venue types around the place would be a good point to start business. If there are many categorical venues with the starting business around this place, there will be competitive cases and this will compel the entrepreneur in many different aspects. In addition, population of a borough will be another issue to take care. If population of the borough is higher, then the potential of the growth of this business will be higher too. Considering these two cases together, it can be possible to find the best borough to start a new business.
+#### Because of its population and diverse culture starting a food business in Brooklyn could be a good idea. In this project a baker wants to amplify his bakery chains in a different neighborhood Brooklyn, who has already chains in Manhattan in New York. He should choose the best place to have high income and grow his business. Therefore, in this project this issue is aimed to be solved with the best solution by using some data science methodologies.
+#### Methodologies and solutions used in this projects could be suggestive for entrepreneurs who want to start a new business in a borough and do not have any idea about its venues, population and common places. 
